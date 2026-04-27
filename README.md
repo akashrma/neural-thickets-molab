@@ -1,14 +1,6 @@
-# Neural Thickets molab Notebook
-
-An interactive [marimo](https://marimo.io/) notebook explaining the ideas behind
-**Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights** by
-Yulu Gan and Phillip Isola.
-
-The notebook is written as a standalone Python marimo app in
-[`neural_thickets.py`](neural_thickets.py). It was built for the molab Notebook
-Competition and focuses on making the paper's central idea concrete: if useful
-task experts are densely packed near pretrained weights, then random local
-perturbations plus selection can become a plausible post-training strategy.
+<p align="center">
+  <img src="assets/readme-banner.svg" alt="Neural Thickets paper explainer banner">
+</p>
 
 ## Run Locally
 
@@ -71,6 +63,7 @@ The notebook includes:
 
 ```text
 .
+|-- assets/readme-banner.svg    # README banner matching the notebook hero
 |-- neural_thickets.py          # Main marimo notebook/app
 |-- simple_1D_signals_expts/    # 1D signal datasets, model, pretrain, eval, RandOpt helpers
 |-- main.py                     # Minimal project stub
