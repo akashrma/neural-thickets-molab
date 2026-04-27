@@ -10,10 +10,6 @@ strategy.
 Submission for the
 [molab Notebook Competition](https://marimo.io/pages/events/notebook-competition)
 
-Notebook by **Akash Sharma** -
-[X](https://x.com/mathcrush247) -
-[GitHub](https://github.com/akashrma)
-
 > **Original paper:** [Diverse Task Experts Are Dense Around Pretrained Weights](https://www.alphaxiv.org/abs/2603.12228)  
 > Yulu Gan - Phillip Isola
 
