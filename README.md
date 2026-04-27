@@ -1,6 +1,21 @@
-<p align="center">
-  <img src="assets/readme-banner.svg" alt="Neural Thickets paper explainer banner">
-</p>
+# Neural Thickets
+
+**Paper Explainer**
+
+What if pretraining does more than initialize a model? This notebook explores the
+paper's claim that many task-specialized experts can live densely near
+pretrained weights, making random local perturbations a plausible post-training
+strategy.
+
+Submission for the
+[molab Notebook Competition](https://marimo.io/pages/events/notebook-competition)
+
+Notebook by **Akash Sharma** -
+[X](https://x.com/mathcrush247) -
+[GitHub](https://github.com/akashrma)
+
+> **Original paper:** [Diverse Task Experts Are Dense Around Pretrained Weights](https://www.alphaxiv.org/abs/2603.12228)  
+> Yulu Gan - Phillip Isola
 
 ## Run Locally
 
@@ -63,7 +78,6 @@ The notebook includes:
 
 ```text
 .
-|-- assets/readme-banner.svg    # README banner matching the notebook hero
 |-- neural_thickets.py          # Main marimo notebook/app
 |-- simple_1D_signals_expts/    # 1D signal datasets, model, pretrain, eval, RandOpt helpers
 |-- main.py                     # Minimal project stub
