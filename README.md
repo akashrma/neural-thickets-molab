@@ -80,7 +80,6 @@ The notebook includes:
 .
 |-- neural_thickets.py          # Main marimo notebook/app
 |-- simple_1D_signals_expts/    # 1D signal datasets, model, pretrain, eval, RandOpt helpers
-|-- main.py                     # Minimal project stub
 |-- pyproject.toml              # Project metadata
 `-- README.md
 ```
@@ -88,7 +87,6 @@ The notebook includes:
 ## Notes
 
 - `neural_thickets.py` is the main entry point.
-- `main.py` is only a minimal project stub and is not the notebook.
 - The notebook imports local helpers from `simple_1D_signals_expts`, so run
   marimo from the repository root.
 - The dependency list in `pyproject.toml` is intentionally minimal; the notebook
