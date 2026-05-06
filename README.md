@@ -7,8 +7,7 @@ paper's claim that many task-specialized experts can live densely near
 pretrained weights, making random local perturbations a plausible post-training
 strategy.
 
-Submission for the
-[molab Notebook Competition](https://marimo.io/pages/events/notebook-competition)
+First place winner at [alphaXiv x marimo Notebook Competition](https://marimo.io/pages/events/notebook-competition)
 
 > **Original paper:** [Diverse Task Experts Are Dense Around Pretrained Weights](https://www.alphaxiv.org/abs/2603.12228)  
 > Yulu Gan - Phillip Isola
